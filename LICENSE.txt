@@ -38,6 +38,6 @@ Place this at the bottom of the main pages:
     </p>
 </footer>
 
-a
+
 Option B - Dedicated Page:
 If you prefer not to include a footer on the main interface, you must include a clear, clickable link to https://github.com/larkzsito in your website's "About", "Credits", or equivalent section.
