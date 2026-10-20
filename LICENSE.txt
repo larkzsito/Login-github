@@ -1,0 +1,43 @@
+License & Terms of Use
+
+Copyright (c) 2026 Larkzsito
+
+Permission is hereby granted to any person obtaining a copy of this software, webpage, design, and associated documentation files (the "Software"), to use, copy, modify, publish, and/or distribute copies of the Software, subject strictly and mandatorily to the following conditions:
+
+1. Mandatory Attribution & Credits
+
+Any use, modification, distribution, or public display of the Software (whether in whole or in part) must feature credit to the original author. You must retain the copyright notice above, this license text, and provide a clear mention and clickable link to https://github.com/larkzsito.
+
+This visual credit can be placed prominently in the site's footer, OR in a dedicated "About", "Credits", or "Humans.txt" page easily accessible from the main site.
+
+2. Disclaimer of Liability (No Warranty)
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, INJURIES, DATA LOSS, SECURITY BREACHES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+How to Apply the Credits in Your Code
+
+To comply with the attribution clause, please ensure you include the following:
+
+1. Technical Metadata (Mandatory)
+Leave these tags in the <head> of your main HTML files:
+
+<meta name="author" content="Larkzsito">
+<meta name="copyright" content="Larkzsito - 2026">
+
+
+2. Visual Credit (Choose A or B)
+
+Option A - Minimalist Footer:
+Place this at the bottom of the main pages:
+
+<footer>
+    <p style="font-size: 12px; opacity: 0.7; text-align: center;">
+        Original code by <a href="https://github.com/larkzsito">@Larkzsito</a>.
+    </p>
+</footer>
+
+a
+Option B - Dedicated Page:
+If you prefer not to include a footer on the main interface, you must include a clear, clickable link to https://github.com/larkzsito in your website's "About", "Credits", or equivalent section.
