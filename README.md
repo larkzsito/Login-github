@@ -1,4 +1,4 @@
-# Login visual + MySQL (comentado)
+# Login visual + MySQL
 
 ## Requisitos
 - Node.js 20 o superior
